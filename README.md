@@ -9,7 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram - @saiteja_basa
 - 😄 Pronouns: I, you, he, she, it, they, this.
 - ⚡ Fun fact: Tell you some other time
-Languages and frameworks:
+
+Technologies, Languages and frameworks:
+
+AWS, React, Openshift, Terraform , Nodejs
+
+
 
 
 
